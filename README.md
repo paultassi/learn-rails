@@ -1,4 +1,4 @@
-Learning Rails with the RailsApp Project
+Learning Rails
 ==
 
 "Ruby on Rails make you happy" they say...
